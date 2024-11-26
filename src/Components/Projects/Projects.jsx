@@ -8,7 +8,7 @@ function Projects() {
         <div className='py-12 px-8 flex flex-wrap gap-7 mx-20'>
             <ProjectCard title="Rock Paper Scissor " main="This is a Rock Paper Scissor web game website created using js" Link=" https://nimesh631.github.io/rockpaperscissor/"/>
             <ProjectCard title="Quiz" main="This is a Quiz game website created using js" Link="https://nimesh631.github.io/Quiz/"/>
-            {/* <ProjectCard title="Todo App" main="This is a Todo App  created using react-redux"/> */}
+            <ProjectCard title="Currency" main="This is a Currency Convertor App created using react. It makes use of Reusable components" Link="https://nimesh631.github.io/chai-aur-code/"/>
         </div>
     </div>
   )

@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 function Home() {
   return (
     <div className='text-white flex w-full justify-between items-start p-10 md:p-20'>
@@ -12,10 +11,10 @@ responsive web applications. Proficient in HTML, CSS, JavaScript, and digital ma
 opportunities to leverage my skills in dynamic environments.</p>
       <button className='mt-5 md:md-10 text-white py-02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]' >Contact me</button>
       </div>
-      <div className='m-20'>
+      <div className='m-20 flex justify-end'>
       <img 
   className="w-2/5  rounded-2xl" 
-  src="/pp.jpg" 
+  src="pp.jpg" 
  
   alt="Profile Picture" 
 />

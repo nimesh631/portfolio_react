@@ -12,15 +12,19 @@ function Skills() {
       <h3 class="text-xl font-semibold mb-4">Technical Skills</h3>
       <ul class="space-y-2">
         <li class="flex items-center">
-          <span class="bg-blue-600 text-white px-3 py-1 rounded-md text-sm mr-3">React</span>
+          <span class="bg-blue-600 text-white px-3 py-1 rounded-md text-sm mr-3">React, JS, TS</span>
           Frontend Development
         </li>
         <li class="flex items-center">
-          <span class="bg-green-600 text-white px-3 py-1 rounded-md text-sm mr-3">JavaScript</span>
-          Web Development
+          <span class="bg-red-600 text-white px-3 py-1 rounded-md text-sm mr-3">NestJS, PostgreSQL</span>
+          Backend Development
         </li>
         <li class="flex items-center">
-          <span class="bg-purple-600 text-white px-3 py-1 rounded-md text-sm mr-3">CSS</span>
+          <span class="bg-green-600 text-white px-3 py-1 rounded-md text-sm mr-3">Git, GitHub, Swagger</span>
+          Tools
+        </li>
+        <li class="flex items-center">
+          <span class="bg-purple-600 text-white px-3 py-1 rounded-md text-sm mr-3">CSS, Tailwind CSS</span>
           Styling and Layout
         </li>
       </ul>

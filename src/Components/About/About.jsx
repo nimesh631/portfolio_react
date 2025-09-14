@@ -16,9 +16,9 @@ function About() {
             <div className='flex gap-3 py-4 items-start'>
               {/* <IoArrowForward size={30} className="mt-1 text-blue-500" /> */}
               <span className='w-full md:w-96'>
-                <h1 className='text-xl md:text-2xl font-semibold leading-normal'>Beginner Frontend Developer</h1>
+                <h1 className='text-xl md:text-2xl font-semibold leading-normal'>Beginner Web Developer</h1>
                 <p className='text-md md:text-md leading-tighter py-2 '>
-                Hi, I'm Nimesh Man Kayastha! I’m a creative Frontend Developer with a passion for building visually appealing and user-friendly web applications. I love turning ideas into reality through clean design and intuitive interfaces.
+                Hi, I'm Nimesh Man Kayastha! I’m a creative Web Developer with a passion for building visually appealing and user-friendly web applications. I love turning ideas into reality through clean design and intuitive interfaces.
 
 My journey into web development started with a curiosity for technology and a desire to bring designs to life. Over time, I’ve worked on various projects that challenge me to grow and learn every day.
 
